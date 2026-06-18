@@ -35,7 +35,7 @@ author:
  -
     fullname: Guiliano Lehmann
     organization: University of Applied Sciences Bonn-Rhein-Sieg
-    abbrev: H-BRS    
+    abbrev: H-BRS
     email: guiliano.lehmann@smail.inf.h-brs.de
    
 normative:
