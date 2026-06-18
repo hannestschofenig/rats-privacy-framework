@@ -37,7 +37,6 @@ author:
     organization: University of Applied Sciences Bonn-Rhein-Sieg
     abbrev: H-BRS
     email: guiliano.lehmann@smail.inf.h-brs.de
-   
 normative:
   COSE-HPKE: I-D.draft-ietf-cose-hpke
   JOSE-HPKE: I-D.draft-ietf-jose-hpke-encrypt
