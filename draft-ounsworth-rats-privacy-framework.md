@@ -1,28 +1,7 @@
 ---
-###
-# Internet-Draft Markdown Template
-#
-# Rename this file from draft-todo-yourname-protocol.md to get started.
-# Draft name format is "draft-<yourname>-<workgroup>-<name>.md".
-#
-# For initial setup, you only need to edit the first block of fields.
-# Only "title" needs to be changed; delete "abbrev" if your title is short.
-# Any other content can be edited, but be careful not to introduce errors.
-# Some fields will be set automatically during setup if they are unchanged.
-#
-# Don't include "-00" or "-latest" in the filename.
-# Labels in the form draft-<yourname>-<workgroup>-<name>-latest are used by
-# the tools to refer to the current version; see "docname" for example.
-#
-# This template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc
-# You can replace the entire file if you prefer a different format.
-# Change the file extension to match the format (.xml for XML, etc...)
-#
-###
 title: "Privacy Framework for Remote ATtestation procedureS"
 abbrev: "RATS Privacy Framework"
 category: info
-# category: experimental
 
 docname: draft-ounsworth-rats-privacy-framework-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
@@ -53,7 +32,12 @@ author:
     organization: University of the Bundeswehr Munich
     abbrev: UniBw M.
     email: hannes.tschofenig@gmx.net
-
+ -
+    fullname: Guiliano Lehmann
+    organization: University of Applied Sciences Bonn-Rhein-Sieg
+    abbrev: H-BRS    
+    email: guiliano.lehmann@smail.inf.h-brs.de
+   
 normative:
   COSE-HPKE: I-D.draft-ietf-cose-hpke
   JOSE-HPKE: I-D.draft-ietf-jose-hpke-encrypt
